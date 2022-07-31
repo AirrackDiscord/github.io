@@ -13,18 +13,18 @@
 title: Airrack Pizza Club
 
 # Your name to show in the footer
-author: Some Person
+author: Jonathan Lotan
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "About Us"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Discord: "https://discord.gg/airrack"
 
 ################
 # --- Logo --- #
